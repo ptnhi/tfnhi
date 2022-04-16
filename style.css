@@ -1,1 +1,23 @@
-
+body {
+  background-image: url('img/1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1 {
+  color: black;
+  font-family: verdana;
+  font-size: 300%;
+  background-color: pink;
+}
+h2 {
+ background-image: url('img/2.jpg');
+ border:2px solid blue;
+ padding:20px;
+ margin:20px;
+}
+p {
+  color: black;
+  font-family: time news roman;
+  font-size: 30px;
+}

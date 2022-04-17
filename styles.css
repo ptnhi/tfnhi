@@ -14,7 +14,6 @@ h1 {
 h2 {
  background-image: url('image/g.jpg');
  border:2px solid wheat;
- background-size: cover;
 }
 p {
  color: white;

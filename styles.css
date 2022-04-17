@@ -14,8 +14,6 @@ h1 {
 h2 {
  background-image: url('image/g.jpg');
  border:2px solid wheat;
- padding: 40px;
- margin: 40px;
 }
 p {
  color: white;

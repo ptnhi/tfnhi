@@ -12,12 +12,12 @@ h1 {
   background-color: burlywood;
 }
 h2 {
-background-image: url('image/gif.jpg');
+ background-image: url('image/gif.jpg');
  border:2px solid wheat;
  background-size: cover;
 }
 p {
-  color: white;
-  font-family: time news roman;
-  font-size: 30px;
+ color: white;
+ font-family: time news roman;
+ font-size: 30px;
 }

@@ -14,13 +14,11 @@ h1 {
 h2 {
  background-image: url('image/g.jpg');
  border:2px solid wheat;
+  padding:20px;
+  margin:20px;
 }
 p {
  color: white;
  font-family: time news roman;
  font-size: 30px;
-}
-image{
-  width:400;
-  heigth:379;
 }

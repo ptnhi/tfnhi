@@ -12,8 +12,7 @@ h1 {
   background-color: burlywood;
 }
 h2 {
- background-image: url('image/g.jpg');
- border:2px solid wheat;
+  border:2px solid wheat;
   padding:20px;
   margin:20px;
 }

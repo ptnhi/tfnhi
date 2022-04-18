@@ -12,9 +12,9 @@ h1 {
   background-color: burlywood;
 }
 h2 {
-  border:2px solid wheat;
+  /*border:2px solid wheat;
   padding:20px;
-  margin:20px;
+  margin:20px;*/
 }
 p {
  color: white;

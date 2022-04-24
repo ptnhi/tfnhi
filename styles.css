@@ -20,3 +20,7 @@ p {
  font-family: time news roman;
  font-size: 30px;
 }
+a:link {
+  color: wheat;
+  background-color: transparent;
+  text-decoration: none;

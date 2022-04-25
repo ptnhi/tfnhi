@@ -21,12 +21,12 @@ p {
  font-size: 30px;
 }
 a:link {
-  color: white;
+  color: pink;
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: white;
+  color: pink;
   background-color: transparent;
   text-decoration: none;
 }
